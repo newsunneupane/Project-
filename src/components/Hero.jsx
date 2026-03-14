@@ -1,6 +1,6 @@
 export default function Hero() {
   return (
-    <section className="relative bg-indigo-50 mt-18">
+    <section className="relative bg-indigo-50 mt-30">
       <div className="max-w-7xl mx-auto px-6 md:px-16 lg:px-24 xl:px-32 flex flex-col-reverse md:flex-row items-center gap-10 py-20">
 
         {/* Left Content */}
